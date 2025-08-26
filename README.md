@@ -3,12 +3,13 @@
 
 [Beyond Emotion Recognition: A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark](https://arxiv.org/abs/2508.16859)
 
-\[ English | [简体中文](README_zh.md) \]
+\[ English |\]
 
+We have released the dataset on huggingface! For model downloads, please click here: [MindIntLab/MTMEUR](https://huggingface.co/datasets/MindIntLab/MTMEUR)
 
 
 ## Introduction
-Multimodal large language models (MLLMs) have been widely applied across various fields due to their powerful perceptual andreasoning capabilities. In the realm of psychology, these modelshold promise for a deeper understanding of human emotions and behaviors. However, recent research primarily focuses on enhancingtheir emotion recognition abilities, leaving the substantial potentialin emotion reasoning, which is crucial for improving the naturalness and effectiveness of human-machine interactions. Therefore, in this paper, we introduce a multi-turn multimodal emotion understanding and reasoning (MTMEUR) benchmark.
+Multimodal large language models (MLLMs) have been widely applied across various fields due to their powerful perceptual andreasoning capabilities. In the realm of psychology, these modelshold promise for a deeper understanding of human emotions and behaviors. However, recent research primarily focuses on enhancingtheir emotion recognition abilities, leaving the substantial potentialin emotion reasoning, which is crucial for improving the naturalness and effectiveness of human-machine interactions. Therefore, in this paper, we introduce a multi-turn multimodal emotion understanding and reasoning (MTMEUR) benchmark.
 
 ![Our proposed pipeline for generating data.](figure/pipeline.png)
 
@@ -25,7 +26,8 @@ conda activate MTMEUR
 pip install -r requirements.txt
 ```
 3. Run the Python file 
-```python evaluation.py
+```
+python evaluation.py
 ```
 
 ## Citation
