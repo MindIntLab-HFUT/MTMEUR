@@ -3,7 +3,6 @@
 
 [Beyond Emotion Recognition: A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark](https://arxiv.org/abs/2508.16859)
 
-\[ English |\]
 
 We have released the dataset on huggingface! For model downloads, please click here: [MindIntLab/MTMEUR](https://huggingface.co/datasets/MindIntLab/MTMEUR)
 
