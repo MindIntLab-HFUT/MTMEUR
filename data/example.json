@@ -1,0 +1,46 @@
+  [  {
+        "video_path": "4985235.mp4",
+        "questions": [
+            {
+                "question": "What underlying emotion can be inferred from the man's body language throughout the interaction?",
+                "options": {
+                    "A": "He is consistently demonstrating a supportive and encouraging demeanor.",
+                    "B": "He appears to be experiencing an overwhelming sense of stress and pressure.",
+                    "C": "His behavior suggests a lack of interest and emotional detachment from the situation.",
+                    "D": "He seems to be exhibiting signs of frustration and impatience."
+                },
+                "correct_answer": "A"
+            },
+            {
+                "question": "As the conversation progresses, what emotional change can be observed in the woman's behavior?",
+                "options": {
+                    "A": "She becomes increasingly expressive, using her hands to emphasize her points with growing enthusiasm.",
+                    "B": "Her demeanor shifts towards disinterest, marked by frequent yawns and a lack of engagement.",
+                    "C": "She displays frustration through abrupt gestures, including hitting the table forcefully.",
+                    "D": "She maintains a composed attitude, listening without showing much reaction."
+                },
+                "correct_answer": "A"
+            },
+            {
+                "question": "Towards the end of the video, how does the man respond to the woman's enthusiastic gestures?",
+                "options": {
+                    "A": "He matches her enthusiasm with a subtle but noticeable gesture of approval.",
+                    "B": "He acknowledges her excitement with a brief, dismissive motion.",
+                    "C": "He remains indifferent to her actions and continues focusing on his task.",
+                    "D": "He subtly indicates agreement through a minimalistic nod."
+                },
+                "correct_answer": "D"
+            },
+            {
+                "question": "In the video, how does the woman initially express her feelings about the music being played?",
+                "options": {
+                    "A": "She exudes enthusiasm and gestures animatedly towards the recording booth.",
+                    "B": "She maintains a neutral demeanor, gazing passively at the mixing console.",
+                    "C": "She displays signs of irritation, folding her arms tightly across her chest.",
+                    "D": "She shows clear distress and abruptly exits the room."
+                },
+                "correct_answer": "A"
+            }
+        ]
+    }
+  ]
